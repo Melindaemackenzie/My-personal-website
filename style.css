@@ -1,0 +1,95 @@
+
+body {
+    background-color:grey;
+}
+
+ h1 {
+    font-family: Georgia;
+    size: 10px;
+    text-align: center;
+}
+
+h2 {
+    text-align:center;
+    color:white;
+
+}
+
+img {
+   width:100px;
+   height:100px;
+    display:flex;
+    justify-content:center;
+    border:1px solid black;
+
+} 
+
+div {
+    display:flex;
+    justify-content:center;
+    border:1px solid black;
+    width:100%;
+}
+
+#Opening {
+    color:pink;
+    size: 15px;
+    text-align:center;
+    font-family:Impact;
+
+}
+ #question { 
+    color:pink;
+    text-align:center;
+    size:15px;
+    font-family:Arial;
+}
+
+#Click { color: black;
+    text-align:center;
+    size:35px;
+    font-family:Georgia;
+    
+}
+
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+      }
+
+    li {
+        display:inline;
+        padding: 130px;
+        font-family:arial;
+        
+    }
+
+    button {
+        margin-top: 20px;
+        line-height: 60px;
+        font-weight: bold;
+        padding: 0 40px;
+        background: rgb(250, 114, 198);
+        border: none;
+        text-align:center;
+        display:flex;
+        
+      }
+      button:hover {
+        background: lightsalmon;
+      }
+      .button-group button {
+        margin-right:5px;
+
+      }
+
+      h3 {
+        font-family:georgia;
+        size:15px;
+        text-align:center;
+
+      }
+
+      
